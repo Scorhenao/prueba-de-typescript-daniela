@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "commonjs",
+        "outDir": "./salida",
+        "rootDir": "./app",
+        "strict": true,
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "forceConsistentCasingInFileNames": true,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true
+    },
+    "include": ["app"],
+    "exclude": ["node_modules"]
+}
